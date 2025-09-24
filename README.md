@@ -1,5 +1,5 @@
 # 🏡 HomeHaven – Real Estate Web Platform
-[HomeHaven Screenshot](https://raw.githubusercontent.com/barc30881/homehaven/main/realEstate.png)
+![HomeHaven Screenshot](https://raw.githubusercontent.com/barc30881/homehaven/main/realEstate.png)
 HomeHaven is a full-stack real estate website that allows users to browse property listings, search by location/price/type, and manage listings through a dynamic backend. Built with PHP and a custom MVC structure, it provides a scalable foundation for real estate businesses.
 
 🌐 **Live:** [https://connectbuilderse-mobilemarket.com/realEstate/](https://connectbuilderse-mobilemarket.com/realEstate/)
