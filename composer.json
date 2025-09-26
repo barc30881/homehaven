@@ -1,10 +1,10 @@
 {
-    "name" : "francis-frank/homehaven",
-    "description": "Home listing application",
+    "name" : "",
+    "description": "",
     "authors": [
         {
-            "name" : "francis",
-            "email" : "ifeanyi36230@gmail.com"
+            "name" : "",
+            "email" : ""
         }
     ],
     "autoload": {
