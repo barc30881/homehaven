@@ -2,20 +2,6 @@
 
 
 
-require __DIR__ . "/../vendor/autoload.php";
-
-use Framework\Router;
-use Framework\Session;
-
-Session::start();
-
-require '../helpers.php';
-
-
-// Instatiating the router
-
-$router = new Router();
-
 
 
 // get routes
